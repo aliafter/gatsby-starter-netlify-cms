@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: This is the title
+title: This is the titleXX
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
